@@ -1,7 +1,1 @@
-data/ 
-models/ 
-*.log 
-*.tmp 
-*.ipynb_checkpoints/ 
-.env 
-venv/ 
+data/*.csv 
